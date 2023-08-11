@@ -1,4 +1,4 @@
-## Hi there 👋
+## We are Brophy CubeSat 🛰️🚀
 
 <!--
 
