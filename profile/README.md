@@ -2,11 +2,16 @@
 
 ## We are Brophy CubeSat 🛰️🚀
 
-Brophy CubeSat is dedicated to solving world problems using the coolest frontier: space. Our first mission will involve launching a CubeSat to study the movement of Valley Fever.
+Brophy CubeSat is dedicated to solving world problems using the coolest frontier: space. Our first mission will involve launching a CubeSat[^1] to study the movement of Valley Fever[^2].
 
 [Learn more about Brophy CubeSat](https://sites.google.com/brophybroncos.org/brophycubesat/home?authuser=1)
 
 *Brophy CubeSat is a club at [Brophy College Preparatory](https://brophyprep.org), a high school in Phoenix, Arizona.*
+
+---
+
+[^1]: A CubeSat is a small cube-shaped satellite, and can fit in the palm of one's hand.
+[^2]: Valley Fever is a fungal disease, most prevalent in the southwestern United States. It can be tracked using satellite footage of dust movement.
 
 <!--
 
